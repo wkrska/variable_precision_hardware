@@ -1,0 +1,3 @@
+[submodule "external/oneAPI-samples"]
+	path = external/oneAPI-samples
+	url = https://github.com/oneapi-src/oneAPI-samples.git
